@@ -7,7 +7,7 @@
  
 # Bulls and Cows with AI
 
-In this class, you'll learn how to create Bulls and Cows with AI using python   
+In this class, you'll learn how to create **[Bulls and Cows](https://www.youtube.com/watch?v=r_dw8iV_52g&t=160s&ab_channel=GamesOnPaper)** with AI using python   
 
 <p align="center">  
  <img src="dclock.png" width="350"/>
