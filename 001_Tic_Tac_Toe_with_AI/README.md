@@ -25,9 +25,9 @@ In this class, you'll learn how to create Tic-Tac-Toe with AI using python
 ## Necessary Features:
 
 Add simple AI with total 3 modes of play:
-1. Player vs. Player (2 - player mode)
-2. Player vs. AI (1 - player mode)
-3. AI vs. AI (AI mode)
+1. 👱 vs. 👦 (2 - player mode)
+2. 👱 vs. 🤖 (1 - player mode)
+3. 🤖 vs. 🤖 (AI mode)
 
 
 ---
