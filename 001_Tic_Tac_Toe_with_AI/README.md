@@ -10,7 +10,7 @@
 In this class, you'll learn how to create Tic-Tac-Toe with AI using python   
 
 <p align="center">  
- <img src="img/output.png" width="350"/>
+ <img src="img/output.png" width="400"/>
 </p>  
 
 
