@@ -22,6 +22,7 @@
 ## Introduction 👋
 
 This repository contains Python games that I've worked on. You'll learn how to create python games with AI. I try to focus on creating board games without GUI in Jupyter-notebook.
+
 ---
 
 ## Table of contents 📋
