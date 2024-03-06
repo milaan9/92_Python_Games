@@ -5,7 +5,7 @@
 <!--<img src="https://badges.pufler.dev/contributors/milaan9/01_Python_Introduction?size=50&padding=5&bots=true" alt="milaan9"/>-->
  
  
-# Bulls and Cows with AI
+# Bulls and Cows with AI cow icon bull icon
 
 In this class, you'll learn how to create **[Bulls and Cows](https://www.youtube.com/watch?v=r_dw8iV_52g&t=160s&ab_channel=GamesOnPaper)** with AI using python   
 
